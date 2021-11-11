@@ -40,7 +40,6 @@ h1{
 
 h3{
     font-weight: 400;
-
     margin: 10px 0;
 }
 
@@ -95,7 +94,7 @@ h3{
 }
 
 .resto span{
-    font-size: 20px;
+    font-size: 15px;
     font-weight: bold;
 }
 
@@ -132,7 +131,7 @@ h3{
 
     footer 
     {
-        display: none;
+        /* display: none; */
     };
 
 }
@@ -144,7 +143,7 @@ h3{
     }
     footer 
     {
-        display: none;
+        /* display: none; */
     };
   
 
@@ -156,13 +155,13 @@ h3{
 footer{
     font-size: 8pt;
     color: rgb(255, 196, 0);
-    position: absolute;
+    /* position: absolute; */
     text-align: center;
     border-bottom: 1px dashed;
     font-family:'Mulish',sans-serif;  
     font-weight: 700;
    /* writing-mode: vertical-rl;/*PARA ESCREVER O TEXTO NA VERTICAL*/
-    left: 0.3rem;
+   /* left: 0.3rem;*/
 }
 
 footer a{
